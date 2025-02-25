@@ -1,0 +1,7 @@
+# Ignore output directory
+output/*
+# Ignore data directory
+data/*
+# Ignore bytecode cache
+*/__pycache__/*
+*.pyc

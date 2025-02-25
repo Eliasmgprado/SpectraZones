@@ -1,0 +1,35 @@
+k_colors = [
+    "#00B4D8",
+    "#E17E7E",
+    "#0C88A0",
+    "#fcb9b9",
+    "#ceaff2",
+    "#7A7A7A",
+    "#61ce99",
+    "#ADB5BD",
+    "#ff532c",
+    "#94AE45",
+    "#C8F16E",
+    "#697a21",
+    "#7843B5",
+    "#A59631",
+    "#333232",
+]
+
+
+lito_colors = {
+    "Gabbro": "#5CAE4A",
+    "Gabbronorite": "#697A21",
+    "Marble": "#61CECE",
+    "Shale": "#652B18",
+    "Metasediment": "#B59C43",
+    "Skarn": "#7843B5",
+    "Schist": "#9F9F9F",
+    "Calcsilicate Rock": "#61CE99",
+    "Ironstone (Undiff. Origin)": "#2A2A2A",
+    "Breccia (Undiff. Origin)": "#FF532C",
+    "Dolerite": "#FCB9B9",
+    "Granulite": "#C766A9",
+    "Volcanics": "#E17E7E",
+    "Volcanic Breccia (Undifferentiated)": "#A70404",
+}
