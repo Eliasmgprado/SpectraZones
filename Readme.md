@@ -81,3 +81,5 @@ The implementation is organized in 5 jupyter notebooks:
     - Segmentation of Clusters
 - 5 - PlotResults.ipynb
     - Plots with the clustering results
+ 
+<img src="https://count.getloli.com/@:approckplot?name=%3Aapprockplot&theme=3d-num" alt=":approckplot" />
